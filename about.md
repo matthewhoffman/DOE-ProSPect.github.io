@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about the project
+Some information about the project goes here.
 
 ### More Information
